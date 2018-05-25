@@ -8,7 +8,7 @@ palette = ["#c9d9d3", "#718dbf", "#e84d60", "green"]
 def get_hiring_plot(stage):
 
     SRC = read_data.SRC_data()
-    SRC.get_data(stage)
+    SRC.get_data(stage, ratio=True)
     src_cds = SRC.create_columns()
 
     p = figure(x_range=FactorRange(*src_cds.data['x']), plot_height=350, plot_width=500, title="               ",
