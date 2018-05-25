@@ -1,0 +1,380 @@
+ M. Gennaro, V. Bajaj, K. Long 
+ Knox S. Long, &amp; Sylvia M. Baggett 
+ Knox S. Long, &amp; Sylvia M. Baggett 
+ S.E. Deustua and J. Mack 
+ V. Kozhurina-Platais, N. Grogin, E. Sabbi 
+ Ben Sunnquist, Sylvia Baggett &amp; Knox S. Long 
+ M. McKay, S. Baggett 
+ C.M. Gosmeyer &amp; The Quicklook Team 
+ C. E. Shanahan, P. McCullough, S. Baggett 
+ Nor Pirzkal, Bryan Hilbert, Barry Rothberg 
+ V. Bajaj 
+ B. Sunnquist, J. Mack &amp; H. Khandrika 
+ H. Khandrika 
+ R. E. Ryan &amp; P. R. McCullough 
+ C. E. Shanahan, C. M. Gosmeyer, S. Baggett 
+ S.E. Deustua, J. Mack, V. Bajaj, H. Khandrika 
+ H. Kurtz and S. Baggett 
+ J. Fowler 
+ Susana E. Deustua and Varun Bajaj 
+ V. Bajaj, H. Khandrika 
+ C.M. Gosmeyer &amp; S. Baggett 
+ J. Fowler &amp; S. Baggett 
+ Susana E. Deustua, Ralph C. Bohlin, Jennifer Mack, Varun Bajaj, Harish Khandrika, Elena Sabbi 
+ P. McCullough
+ N. Pirzkal &amp; R. Ryan
+ B. Sunnquist, S. Baggett &amp; K. S. Long 
+ C. Martlin S. Baggett 
+ J. Fowler, L. Markwardt, M. Bourque, &amp; J. Anderson 
+ N. Pirzkal and R. Ryan 
+ C.M. Gosmeyer, and S. Baggett 
+ G. Brammer 
+N. Pirzkal, R. Ryan, and G. Brammer 
+J. Anderson 
+C. Martlin 
+J. Anderson 
+K. S. Long, S. M. Baggett, and V. Kozhurina-Platais 
+H. Khandrika, S. Baggett, A. Bowers 
+C. Martlin, H. Gunning 
+M. Bourque, S. Baggett 
+S.E. Deustua 
+ J. Mack 
+J. Mack, T. Dahlen, E. Sabbi, &amp; A. S. Bowers 
+S.E. Deustua, J. Mack, A.S. Bowers, S. Baggett, V. Bajaj, T. Dahlen, M. Durbin, C. Gosmeyer, H. Gunning, D. Hammer, G. Hartig, H. Khandrika J. MacKenty, R. Ryan, E. Sabbi, M. Sosey 
+V. Bajaj 
+R. E. Ryan Jr., S. Deustua, J. Anderson, S. M. Baggett, V. Bajaj, M. Bourque, A. S. Bowers, T. Dahlen, M. Durbin, C. Gosmeyer, H. Gunning, H. Khandrika, J. Mack, J. MacKenty, C. Martlin, V. Kozhurina-Platais, E. Sabbi, &amp; M. Sosey 
+J. Mack, A. Rajan, &amp; A. Bowers 
+G. Brammer, R. Ryan, N. Pirzkal 
+K. S. Long, S. M. Baggett, &amp; J. W. MacKenty 
+K. S. Long, S. M. Baggett, &amp; J. W. MacKenty 
+C. M. Gosmeyer, S. M. Baggett 
+H. Khandrika, S. M. Baggett 
+K. Sahu, C. M. Gosmeyer, S. M. Baggett 
+R. E. Ryan Jr. &amp; S. M. Baggett 
+R. C. Bohlin, S. E. Deustua, &amp; N. Pirzkal 
+J. Mack 
+J. Anderson, M. Bourque, K. Sahu, E. Sabbi, A. Viana 
+E. Sabbi &amp; the WFC3 Team 
+M. J. Durbin, P. R. McCullough 
+H. Gunning 
+R.J. Avila, A. Koekemoer, J. Mack, A. Fruchter 
+S. Baggett, C. Gosmeyer, K. Noeske 
+V. Kozhurina-Platais &amp; J. Anderson 
+M. J. Durbin, M. Bourque, S. Baggett 
+Jay Anderson 
+Jay Anderson and Sara Ogaz 
+Jay Anderson and Sylvia Baggett 
+
+<a href="csm_offsets.txt" style="font-weight: bold;">CSM offsets</a>
+</li>
+C. M. Gosmeyer, S. Baggett, S. Deustua, D.M. Hammer 
+Jay Anderson and Sylvia Baggett 
+H.Gunning, S. Baggett, J. MacKenty 
+B. Hilbert 
+Kailash Sahu, Susana Deustua and Elena Sabbi 
+Susana Deustua, Ralph Bohlin and John MacKenty 
+Knox S. Long, Sylvia M. Baggett, John W. MacKenty &amp; Peter M. McCullough 
+M. Bourque, S. Baggett, &amp; L. Dressel 
+V. Kozhurina-Platais 
+N. Pirzkal 
+J. Biretta 
+Kailash Sahu, Sylvia Baggett, J. MacKenty 
+H. Gunning, E. Sabbi, J. MacKenty, S. Baggett, and the WFC3 Team 
+E. Sabbi &amp; the WFC3 Team 
+M. J. Dulude, S. Baggett, B. Hilbert 
+H. Gunning, S. Baggett 
+J. Biretta and M. Bourque 
+G. Brammer, N. Pirzkal, P. McCullough, J. MacKenty 
+J. Anderson 
+J. C. Lee, N. Pirzkal, B. Hilbert 
+V. Kozhurina-Platais, D. Hammer, N. Dencheva, &amp; W. Hack 
+J. Biretta and S. Baggett 
+L. Dressel 
+E. Sabbi &amp; A. Bellini 
+J. Mack, E. Sabbi, &amp; T. Dahlen 
+M. Bourque &amp; S. Baggett 
+K. S. Long, S. M. Baggett &amp; J. W. MacKenty 
+E. Sabbi &amp; the WFC3 Team 
+K. S. Long, S. M. Baggett &amp; J. W. MacKenty 
+T. Dahlen 
+M. Bourque &amp; V. Kozhurina-Platais 
+H. Gunning, C. Pavlovsky, S. Baggett 
+Tomas Dahlen 
+N. Pirzkal, B. Hilbert 
+L. Dressel 
+J. Biretta 
+S. Baggett &amp; J. Anderson 
+S. Baggett &amp; J. Anderson 
+Hilbert and Petro 
+Hilbert 
+Noeske et al. 
+P. McCullough &amp; J. MacKenty 
+V. Kozhurina-Platais, M. Dulude, T. Dahlen, C. Cox 
+J. C. Lee, N. Pirzkal &amp; B. Hilbert 
+B. Hilbert 
+E. Sabbi &amp; the WFC3 Team 
+V. Kozhurina-Platais and L. Petro 
+A. Suchkov and S. Baggett 
+A. Suchkov and S. Baggett 
+E. Sabbi 
+Pavlovsky, McCullough &amp; Baggett 
+Rothberg et al. 
+Kozhurina-Platais et al. 
+P. McCullough 
+A. G. Riess 
+S. Deustua 
+T. Borders, C. Pavlovsky, S. Baggett 
+P. McCullough 
+N. Pirzkal, J. Mack, T. Dahlen, E. Sabbi 
+B. Hilbert and P. McCullough 
+K. S. Long, T. Wheeler, H. Bushouse 
+J. S. Kalirai, S. Deustua, A. Rajan, and A. Riess 
+Rajan et al. 
+V. Kozhurina-Platais, R. Gilliland, &amp; S. Baggett 
+H. Kuntschner et al. 
+M. J. Dulude, S. Baggett, H. Bushouse, &amp; B. Hilbert 
+R. Gilliland and A. Rajan 
+H. Bushouse et al. 
+M. Kuemmel et al. 
+Long et al. 
+Hilbert 
+Riess and Petro 
+J. Kalirai et al. 
+Hilbert &amp; Bushouse 
+Sabbi, MacKenty &amp; Borders 
+Borders et al. 
+Gilliland, Rajan and Deustua 
+Dahlen, Dressel, and Kalirai 
+J. Kalirai et al. 
+A. Riess 
+N. Pirzkal, A. Viana, A. Rajan 
+M. Wong 
+A. Rajan and S. Baggett 
+A.C Viana and S. Baggett 
+P. McCullough 
+McLean et al. 
+Hilbert &amp; McCullough 
+P. McCullough, S. Deustua 
+Hilbert 
+Hartig et al. 
+G. Hartig et al. 
+Deustua et al. 
+S.Baggett and T.Borders 
+A.R. Martel, T. Borders, &amp; E.A. Barker 
+Barker, McCullough, and Martel 
+B. HIlbert 
+B. Hilbert, V. Kozhurina-Platais, and E. Sabbi 
+P. McCullough 
+B. Hilbert 
+G. F. Hartig 
+G. F. Hartig 
+T. M. Brown 
+Kuntschner et al. 
+Kuntschner et al. 
+Borders &amp; Baggett 
+L. Dressel, C. Cox, M. Lallo 
+L. Dressel, C. Cox, M. Lallo 
+V. Kozhurina-Platais, et al. 
+V. Kozhurina-Platais, et al. 
+J.S. Kalirai, et al. 
+J.S. Kalirai, et al. 
+S. Baggett, T. Borders 
+S. Baggett 
+S. Baggett, E. Sabbi, P. McCullough 
+T. Borders, S. Baggett 
+B.Hilbert, P.R. McCullough 
+H. Bushouse 
+E. Sabbi 
+E.Sabbi 
+L. Petro 
+Sabbi et al. 
+Sabbi et al. 
+H. Bushouse and C. Pavlovsky 
+M. Dulude and L. Dressel 
+V. Kozhurina-Platais, B. Hilbert, A. Martel, and P. McCullough 
+J. S. Kalirai et al. 
+M. H. Wong et al. 
+T.Borders, S. Baggett, A.R. Martel, H. Bushouse 
+A. R. Martel, P. McCullough, and H. Bushouse 
+S. Baggett 
+H. Bushouse 
+H. Kuntschner, H. Bushouse, M. Kummel, and J. R. Walsh 
+E. Sabbi et al. 
+B. Hilbert 
+H. Bushouse 
+A. R. Martel, S. Baggett, H. Bushouse, and E. Sabbi 
+H. Bushouse 
+B. Hilbert 
+B. Hilbert 
+T. Brown 
+T. Brown 
+H. Bushouse 
+S. Baggett 
+S. Baggett 
+G. Hartig 
+B. Hilbert 
+H. Bushouse and J. Kalirai 
+G. Hartig 
+G. Hartig 
+G. Hartig 
+G. Hartig 
+P. McCullough 
+B. Hilbert 
+A. Martel 
+A. Martel 
+M. Robberto 
+P. McCullough 
+E. Sabbi 
+H. Kuntschner, H. Bushouse, J. R. Walsh, M. Kummel 
+H. Kuntschner, H. Bushouse, J. R. Walsh, M. Kummel 
+R. Hook and F. Stoehr 
+S. Baggett 
+E. Sabbi 
+T. Brown 
+T. Brown, G. Hartig, S. Baggett 
+T. Brown 
+T. Brown 
+T. Brown 
+T. Brown 
+T. Brown 
+B. Hilbert 
+B. Hilbert 
+A. Martel 
+S. Baggett 
+L. Petro 
+B. Hilbert 
+A. R. Martel, S. Baggett 
+A. R. Martel 
+B. Hilbert 
+T. Brown 
+T. Brown 
+S. Baggett, A. Waczynski 
+T. Brown 
+T. Brown 
+S. Baggett 
+T. Brown 
+B. Hilbert 
+T. Brown 
+S. Baggett 
+S. Baggett 
+M. Robberto 
+M. Robberto 
+S. Baggett 
+B. Hilbert 
+T. Brown 
+T. Brown 
+T. Brown 
+T. Brown 
+H. Bushouse 
+S. Baggett, T. Brown, G. Hartig, M. Robberto, R. Boucarut, R. Telfer 
+S. Baggett, R. Boucarut, R. Telfer, J. Kim Quijano, M. Quijada 
+S. Baggett, R. Boucarut, R. Telfer, J. Kim Quijano, M. Quijada 
+S. Baggett, R. Boucarut, R. Telfer, J. Kim Quijano, M. Quijada 
+L. Petro and T. Wheeler 
+M. Sosey and H. Bushouse 
+T. Brown and S. Baggett 
+T. Brown 
+B. Hilbert and M. Robberto 
+B. Hilbert 
+B. Hilbert and M. Robberto 
+M. Robberto and B. Hilbert 
+T. Brown 
+M. Robberto and B. Hilbert 
+H. Bushouse 
+B. Hilbert and M. Robberto 
+H. Bushouse, O. Lupie 
+D. Figer, S. Baggett 
+T. Brown 
+H. Bushouse 
+H. Bushouse, O. Lupie 
+M. Robberto 
+T. Brown 
+S. Larsen, H. Bushouse, J. R. Walsh 
+H. Bond, T. Brown 
+B. Hilbert 
+B. Hilbert 
+B. Hilbert, S. Baggett 
+T. Brown, I. N. Reid, D. F. Figer 
+T. Brown 
+G. Harting 
+S. Baggett 
+S. Baggett 
+S. Larsen, H. Bushouse, J. R. Walsh 
+H. Bushouse, G. Hartig 
+S. Baggett, R. Hill, G. Hartig, A. Waczynski, Y. Wen 
+G. Hartig 
+G. Hartig 
+T. Brown, I. N. Reid 
+T. Brown 
+B. Hilbert 
+B. Hilbert, S. Baggett 
+T. Brown, O. Lupie 
+S. Baggett, G. Hartig, E. Cheung 
+B. Hilbert 
+G. Hartig 
+G. Hartig 
+S. Baggett 
+B. Hilbert 
+N. Reid 
+T. Brown 
+N. Reid 
+N. Reid 
+S. Baggett, B. Hilbert 
+H. Bushouse 
+T. Brown, O. Lupie, B. Hilbert, S. Baggett 
+N. Reid 
+S. Baggett, M. Quijada 
+B. Hilbert, M. Robberto, S. Baggett 
+M. Robberto, M. Stiavelli 
+W. Baggett 
+O. Lupie, R. Boucarut, T. Pham, M. Quijada 
+B. Hilbert, S. Baggett, M. Robberto 
+M. Stiavelli, M. Robberto 
+N. Reid, P. Knezek, O. Lupie, and the WFC3 team 
+O. Lupie, R. Boucarut 
+M. Giavalisco 
+O. Lupie, M. Robinson, A. Welty, W. Baggett, M. McKinney 
+M. Giavalisco 
+M. Giavalisco, K.Sahu, R. Bohlin 
+O. Lupie, G. Hartig 
+O. Lupie 
+M. Stiavelli 
+N. Reid 
+N. Reid 
+M. Robberto, C. Hanley, I. Dashevsky 
+M. Stiavelli 
+M. Stiavelli, C. Hanley 
+M. Stiavelli 
+O. Lupie 
+M. Stiavelli, R. Hill, E. Polidan 
+I. Dashevsky, C. Hanley, M. Robberto 
+M. Stiavelli, J. Sullivan, J. Fleming 
+M. Stiavelli, J. Sullivan, C. Hanley 
+M. Giavalisco, M. Stiavelli, M. Robberto 
+I. Dashevsky, M. Robberto 
+C. Hanley, M. Robberto 
+O. Lupie 
+M. Stiavelli 
+C. Hanley, M. Robberto 
+P. Knezek, C. Hanley 
+P. Knezek 
+H. Bushouse, M. Giavalisco 
+C. Hanley, M. Stiavelli 
+L. Cawley, P. Goudfrooij, B. Whitmore, M. Stiavelli, CTE Working Group 
+C. Hanley, L. Cawley 
+L. Cawley, C. Hanley 
+C. Lisse, R. Henry, P. Knezek, C. Hanley 
+I. Dashevsky, M. Stiavelli 
+M. Stiavelli, M. Giavalisco, M. Carollo 
+N. Reid, P. Knezek, C. Lisse, WFC3 team 
+M. Stiavelli, R. Henry, H. Bushouse, W. Hack 
+O. Lupie, R. Boucarut 
+O. Lupie, C. Hanley, J. Nelan 
+O. Lupie, C. Hanley 
+I. Dashevsky, M. Giavalisco 
+L. Cawley, C. Hanley 
+M. Robberto, L. Cawley, C. Lisse, R. Hill 
+O. Lupie, R. Boucarut 
+C. Hanley, C. Lisse, P. Knezek, O. Lupie, M. Robberto, J. Nelan 
+M. Stiavelli 
+M. Stiavelli, C. Hanley, M. Robberto 
