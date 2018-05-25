@@ -52,9 +52,12 @@ class SRC_data():
         # Possible stages include 'pool', 'long-list', 'short-list', 'hire'
         if stage not in ['pool', 'long-list', 'short-list', 'hire']:
             return ValueError("Invalid state {}; must be one of 'pool', 'long-list', 'short-list', 'hire'".format(stage))
+        m_data = self.data['{} M'.format(stage)]
+        f_data = self.data['{} F'.format(stage)]
         self.data = {'years': self.years,
-                     'Male': self.data['{} M'.format(stage)],
-                     'Female': self.data['{} F'.format(stage)],
+                     'Male': m_data,
+                     'Female': f_data,
+                     'ratio_non_male': f_data / (m_data + f_data),
                      'Non-Binary': [0]*3}
 
     def create_columns(self):
@@ -63,7 +66,8 @@ class SRC_data():
         # Create an hstack of the data
         counts = sum(zip(self.data['Male'],
                          self.data['Female'],
-                         self.data['Non-Binary']),
+                         self.data['Non-Binary'],
+                         self.data['ratio_non_male']),
                      ())
         source = ColumnDataSource(data=dict(x=self.x, counts=counts))
         return source
@@ -93,8 +97,8 @@ class science_evaluation_data():
         self.data = {'years': self.years,
                      'Male': m_data,
                      'Female': f_data,
-                     'Ratio': f_data / (m_data + f_data),
-                     'Non-Binary': [0]*5}
+                     'Non-Binary': [0]*5,
+                     'ratio_non_male': f_data / (m_data + f_data)}
 
     def create_columns(self):
         '''Create ColumnDataSource for nested Bokeh bar plot
@@ -102,7 +106,8 @@ class science_evaluation_data():
         # Create an hstack of the data
         counts = sum(zip(self.data['Male'],
                          self.data['Female'],
-                         self.data['Non-Binary']),
+                         self.data['Non-Binary'],
+                         self.data['ratio_non_male']),
                      ())
         source = ColumnDataSource(data=dict(x=self.x, counts=counts))
         return source
@@ -127,10 +132,13 @@ class research_staff_data():
         # Possible types include 'Hire' and 'Left'
         if data_type not in ['Hire', 'Left']:
             return ValueError("Invalid type {}; must be either 'Hire' or 'Left'".format(data_type))
+        m_data = self.data['{} male'.format(data_type)]
+        f_data = self.data['{} female'.format(data_type)]
         self.data = {'years': self.years,
-                     'Male': self.data['{} male'.format(data_type)],
-                     'Female': self.data['{} female'.format(data_type)],
-                     'Non-Binary': [0]*5}
+                     'Male': m_data,
+                     'Female': f_data,
+                     'Non-Binary': [0]*5,
+                     'ratio_non_male': f_data / (m_data + f_data)}
 
     def create_columns(self):
         '''Create ColumnDataSource for dodged Bokeh bar plot
@@ -158,10 +166,13 @@ class renewal_promotion_data():
         # Possible types include 'Renewal', 'Promotion', and 'Cases'
         if data_type not in ['Renewal', 'Promotion', 'Cases']:
             return ValueError("Invalid type {}; must be either 'Renewal', 'Promotion', or 'Cases'".format(data_type))
+        m_data = self.data['{} Male'.format(data_type)]
+        f_data = self.data['{} Female'.format(data_type)]
         self.data = {'years': self.years,
-                     'Male': self.data['{} Male'.format(data_type)],
-                     'Female': self.data['{} Female'.format(data_type)],
-                     'Non-Binary': [0]*5}
+                     'Male': m_data,
+                     'Female': f_data,
+                     'Non-Binary': [0]*5,
+                     'ratio_non_male': f_data / (m_data + f_data)}
 
     def create_columns(self):
         '''Create ColumnDataSource for nested Bokeh bar plot
@@ -169,7 +180,8 @@ class renewal_promotion_data():
         # Create an hstack of the data
         counts = sum(zip(self.data['Male'],
                          self.data['Female'],
-                         self.data['Non-Binary']),
+                         self.data['Non-Binary'],
+                         self.data['ratio_non_male']),
                      ())
         source = ColumnDataSource(data=dict(x=self.x, counts=counts))
         return source
@@ -205,10 +217,13 @@ class symposium_data():
         # Possible types include 'participants', 'invited', 'contributed'
         if data_type not in ['participants', 'invited', 'contributed']:
             return ValueError("Invalid type {}; must be either 'participants', 'invited', or 'contributed'".format(data_type))
+        m_data = self.data['{}'.format(data_type)] - self.data['w_{}'.format(data_type)]
+        f_data = self.data['w_{}'.format(data_type)]
         self.data = {'symposia': self.symposia,
-                     'Male': self.data['{}'.format(data_type)] - self.data['w_{}'.format(data_type)],
-                     'Female': self.data['w_{}'.format(data_type)],
-                     'Non-Binary': [0]*len(self.symposia)}
+                     'Male': m_data,
+                     'Female': f_data,
+                     'Non-Binary': [0]*len(self.symposia),
+                     'ratio_non_male': f_data / (m_data + f_data)}
         print(self.data)
 
     def create_columns(self):
