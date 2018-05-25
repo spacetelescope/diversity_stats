@@ -12,4 +12,18 @@
 2009	The Search for Life in the Universe			192		50	NA		NA	NA		NA
 2010	Hubble Fellowship Symposium				63		20	NA		NA	NA		NA
 2010	Stellar Populations in the Cosmological Context		186		63	30		9	NA		NA
+2011	Hubble Fellowship Symposium				46		14	NA		NA	NA		NA
+2011	Dark Matter						132		36	27		9	NA		NA
+2012	Hubble Fellowship Symposium				36		10	NA		NA	NA		NA
+2012	Gas Flows in Galaxies					164		59	34		10	NA		NA
+2013	Hubble Fellowship Symposium				45		17	NA		NA	NA		NA
+2014	Hubble Fellowship Symposium				39		14	NA		NA	NA		NA
+2014	Habitable Worlds Across Time and Space			141		39	28		8	NA		NA
+2015	Hubble Fellowship Symposium				35		11	NA		NA	NA		NA
+2015	Hubble 2020						138		45	34		14	NA		NA
+2016	Hubble Fellowship Symposium				35		10	NA		NA	NA		NA
+2016	What Shapes Galaxies?					112		50	31		15	NA		NA
+2017	Hubble Fellowship Symposium				33		10	NA		NA	NA		NA
+2017	Lifecycle of Metals Throughout the Universe		112		42	35		15	NA		NA
+2018	The 21st Century H-R Diagram				98		30	23		8	NA		NA
 
