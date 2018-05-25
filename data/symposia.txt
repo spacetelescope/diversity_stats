@@ -1,0 +1,15 @@
+#Symposia
+#year	title							participants	w	invited		w	contributed	w
+1997	The Hubble Deep Field					NA		NA	28		3	NA		NA
+1998	Unsolved Problems in Stellar Evolution			NA		NA	29		4	2		0
+2005	A Decade of Extrasolar Planets around Normal Stars	NA		NA	30		5	0		0
+2006	Massive Stars: From Pop III and GRBs to the Milky Way	92		23	25		5	11		2
+2007	Hubble Fellowship Symposium				25		8	NA		NA	NA		NA
+2007	Black Holes						87		28	30		7	NA		NA
+2008	Hubble Fellowship Symposium				29		10	NA		NA	NA		NA
+2008	A decade of dark energy					151		34	40		9	NA		NA
+2009	Hubble Fellowship Symposium				31		10	NA		NA	NA		NA
+2009	The Search for Life in the Universe			192		50	NA		NA	NA		NA
+2010	Hubble Fellowship Symposium				63		20	NA		NA	NA		NA
+2010	Stellar Populations in the Cosmological Context		186		63	30		9	NA		NA
+
