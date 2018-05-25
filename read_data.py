@@ -30,7 +30,8 @@ import numpy as np
 from astropy.io import ascii as asc
 from bokeh.models import ColumnDataSource
 
-DATA_DIR = os.path.abspath('diversity_stats/data')
+# DATA_DIR = os.path.abspath('diversity_stats/data')
+DATA_DIR = os.path.abspath('data')
 
 
 class SRC_data():
@@ -56,8 +57,10 @@ class SRC_data():
         m_data = self.data['{} M'.format(stage)]
         f_data = self.data['{} F'.format(stage)]
         if ratio:
-            m_data = m_data / (m_data + f_data)
-            f_data = f_data / (m_data + f_data)
+            m_data_ratio = m_data / (m_data + f_data)
+            f_data_ratio = f_data / (m_data + f_data)
+            m_data = m_data_ratio
+            f_data = f_data_ratio
 
         self.data = {'years': self.years,
                      'Male': m_data,
@@ -99,8 +102,10 @@ class science_evaluation_data():
         m_data = self.data['Level {} Male'.format(level)]
         f_data = self.data['Level {} Female'.format(level)]
         if ratio:
-            m_data = m_data / (m_data + f_data)
-            f_data = f_data / (m_data + f_data)
+            m_data_ratio = m_data / (m_data + f_data)
+            f_data_ratio = f_data / (m_data + f_data)
+            m_data = m_data_ratio
+            f_data = f_data_ratio
 
         self.data = {'years': self.years,
                      'Male': m_data,
@@ -142,8 +147,10 @@ class research_staff_data():
         m_data = self.data['{} male'.format(data_type)]
         f_data = self.data['{} female'.format(data_type)]
         if ratio:
-            m_data = m_data / (m_data + f_data)
-            f_data = f_data / (m_data + f_data)
+            m_data_ratio = m_data / (m_data + f_data)
+            f_data_ratio = f_data / (m_data + f_data)
+            m_data = m_data_ratio
+            f_data = f_data_ratio
 
         self.data = {'years': self.years,
                      'Male': m_data,
@@ -180,8 +187,10 @@ class renewal_promotion_data():
         m_data = self.data['{} Male'.format(data_type)]
         f_data = self.data['{} Female'.format(data_type)]
         if ratio:
-            m_data = m_data / (m_data + f_data)
-            f_data = f_data / (m_data + f_data)
+            m_data_ratio = m_data / (m_data + f_data)
+            f_data_ratio = f_data / (m_data + f_data)
+            m_data = m_data_ratio
+            f_data = f_data_ratio
 
         self.data = {'years': self.years,
                      'Male': m_data,
@@ -234,8 +243,10 @@ class symposium_data():
         m_data = self.data['{}'.format(data_type)] - self.data['w_{}'.format(data_type)]
         f_data = self.data['w_{}'.format(data_type)]
         if ratio:
-            m_data = m_data / (m_data + f_data)
-            f_data = f_data / (m_data + f_data)
+            m_data_ratio = m_data / (m_data + f_data)
+            f_data_ratio = f_data / (m_data + f_data)
+            m_data = m_data_ratio
+            f_data = f_data_ratio
 
         self.data = {'symposia': self.symposia,
                      'Male': m_data,
