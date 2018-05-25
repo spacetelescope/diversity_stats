@@ -5,10 +5,10 @@ import read_data
 
 palette = ["#c9d9d3", "#718dbf", "#e84d60", "green"]
 
-def get_hiring_plot():
+def get_hiring_plot(stage):
 
     SRC = read_data.SRC_data()
-    SRC.get_data('hire')
+    SRC.get_data(stage)
     src_cds = SRC.create_columns()
 
     p = figure(x_range=FactorRange(*src_cds.data['x']), plot_height=350, plot_width=500, title="               ",
@@ -21,4 +21,4 @@ def get_hiring_plot():
     p.x_range.range_padding = 0.1
     p.xaxis.major_label_orientation = 1
     p.xgrid.grid_line_color = 'white'
-    return p
+    return p, src_cds 
