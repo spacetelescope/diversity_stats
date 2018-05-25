@@ -1,0 +1,92 @@
+M.B. Fix, 03 May 2018,                      04 May 2018
+G. De Rosa,                      04 May 2018
+A. Fox ,                      16 Feb 2018
+A. Fox ,                      16 Feb 2018
+W. J. Fischer,                      15 Feb 2018
+W. J. Fischer,                      15 Feb 2018
+M. Fix,                      13 Feb 2018
+M. Fix,                      13 Feb 2018
+T. Wheeler,                      13 Feb 2018
+D. Sahnow,                      13 Feb 2018
+J. White,                      05 Dec 2017
+D. Sahnow,                      31 Aug 2017
+D. Sahnow,                      28 Aug 2017
+P. Sonnentrucker,                      28 Aug 2017
+G. De Rosa,                      28 Aug 2017
+S. Penton,                      28 Aug 2017
+A. Fox,                      28 Aug 2017
+P. Sonnentrucker,                      28 Aug 2017
+J. White,                      18 Aug 2017
+D. Sahnow,                      07 Aug 2017
+J. Taylor,                      02 Aug 2017
+M. Fix,                      31 Jul 2017
+M. Fix,                      31 Jul 2017
+G. DeRosa,                      31 Jul 2017
+T. Wheeler,                      21 Jul 2017
+P. Sonnentrucker,                      21 Jul 2017
+P. Sonnentrucker,                      21 Jul 2017
+J. Roman-Duval,                      20 Jun 2017
+N. Indriolo,                      16 May 2017
+M. Peeples,                      28 Apr 2017
+E. Snyder,                      16 Aug 2017
+R. Plesha,                      10 Aug 2017
+R. Osten,                      16 Feb 2017
+J. Debes,                      04 Oct 2016
+T. Wheeler,                      22 Sep 2016
+G. DeRosa,                      22 Sep 2016
+P. Sonnentrucker,                      22 Sep 2016
+M. Fix,                      22 Sep 2016
+J. Taylor,                      22 Sep 2016
+COS,                      22 Sep 2016
+D. Sahnow,                      22 Sep 2016
+D. Sahnow,                      21 Sep 2016
+P. Sonnentrucker,                      21 Sep 2016
+M. Fix,                      22 Sep 2016
+P. Sonnentrucker,                      22 Sep 2016
+P. Sonnentrucker,                      21 Sep 2016
+J. White,                      25 Aug 2016
+J. Roman-Duval,                      25 Feb 2016
+A. Fox,                      10 Dec 2015
+H. Sana,                      25 Sep 2015
+,                      04 Oct 2016
+C. Proffitt,                      25 Sep 2015
+J. Roman-Duval,                      11 Jun 2015
+A. Fox,                      20 May 2015
+D. Sahnow,                      24 Apr 2015
+J. Roman-Duval,                      16 Jul 2014
+D. Massa,                      14 Mar 2014
+R. Osten,                      08 Oct 2013
+D. Massa,                      01 Oct 2013
+J. Roman-Duval,                      10 Jun 2013
+P. Sonnentrucker,                      10 Jun 2013
+J. H. Debes,                      22 May 2013
+G. Kriss,                      26 Apr 2013
+C. Proffitt,                      08 Apr 2013
+C. Oliveira,                      07 Feb 2013
+C. Oliveira,                      06 Feb 2013
+R.Osten,                      29 Nov 2012
+P. Ghavamian,                      03 Oct 2012
+D. Sahnow,                      07 Oct 2011
+D. Sahnow,                      26 Sep 2011
+T. Keyes,                      07 Sep 2011
+J. Ely,                      05 Aug 2011
+R. Osten,                      28 Jun 2011
+T. Ed Smith,                      12 Jul 2011
+D. Sahnow,                      12 Jul 2011
+G. Kriss,                      18 Mar 2011
+P. Goudfrooij,                      11 Mar 2010
+S. Béland,                      30 Sep 2010
+P. Ghavamian,                      30 Sep 2010
+R. Osten,                      02 Aug 2010
+T. Keyes,                      15 Jun 2010
+D. Lennon,                      04 Mar 2010
+C. Oliveira,                      19 Feb 2010
+C. Oliveira,                      19 Feb 2010
+G. Hartig,                      12 Feb 2010
+T. Ake,                      04 Feb 2010
+D. Massa,                      28 Jan 2010
+D. Massa,                      28 Jan 2010
+P. Ghavamian,                      01 Oct 2009
+D. Soderblom,                      06 Jun 2008
+C. Leitherer,                      07 Mar 2006
+Charles (Tony) Keyes,                      07 Mar 2006

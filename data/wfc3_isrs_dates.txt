@@ -1,0 +1,322 @@
+ M. Gennaro, V. Bajaj, K. Long  17 May 2018 
+ Knox S. Long, &amp; Sylvia M. Baggett  01 May 2018 
+ Knox S. Long, &amp; Sylvia M. Baggett  29 Mar 2018 
+ S.E. Deustua and J. Mack  12 Mar 2018 
+ V. Kozhurina-Platais, N. Grogin, E. Sabbi  19 Feb 2018 
+ Ben Sunnquist, Sylvia Baggett &amp; Knox S. Long  12 Dec 2017 
+ M. McKay, S. Baggett  07 Nov 2017 
+ C.M. Gosmeyer &amp; The Quicklook Team  08 Sept 2017 
+ C. E. Shanahan, P. McCullough, S. Baggett  10 August 2017 
+ Nor Pirzkal, Bryan Hilbert, Barry Rothberg  21 June 2017 
+ V. Bajaj 13 Nov 2017 
+ B. Sunnquist, J. Mack &amp; H. Khandrika  22 June 2017 
+ H. Khandrika  26 June 2017 
+ R. E. Ryan &amp; P. R. McCullough  12 June 2017 
+ C. E. Shanahan, C. M. Gosmeyer, S. Baggett  12 June 2017 
+ S.E. Deustua, J. Mack, V. Bajaj, H. Khandrika  19 June 2017 
+ H. Kurtz and S. Baggett  02 June 2017 
+ J. Fowler  02 June 2017 
+ Susana E. Deustua and Varun Bajaj  02 May 2017 
+ V. Bajaj, H. Khandrika  06 Apr 2017 
+ C.M. Gosmeyer &amp; S. Baggett  15 Mar 2017 
+ J. Fowler &amp; S. Baggett  15 Mar 2017 
+ Susana E. Deustua, Ralph C. Bohlin, Jennifer Mack, Varun Bajaj, Harish Khandrika, Elena Sabbi  19 Apr 2017 
+ P. McCullough 02 Mar 2017 
+ N. Pirzkal &amp; R. Ryan 20 Feb 2017 
+ B. Sunnquist, S. Baggett &amp; K. S. Long  15 Feb 2017 
+ C. Martlin S. Baggett  13 Feb 2017 
+ J. Fowler, L. Markwardt, M. Bourque, &amp; J. Anderson  10 Feb 2017 
+ N. Pirzkal and R. Ryan  05 Jan 2017 
+ C.M. Gosmeyer, and S. Baggett  14 Dec 2016 
+ G. Brammer  02 Nov 2016 
+N. Pirzkal, R. Ryan, and G. Brammer 06 Sep 2016
+J. Anderson 30 Aug 2016
+C. Martlin 03 Aug 2016
+J. Anderson 08 Aug 2016
+K. S. Long, S. M. Baggett, and V. Kozhurina-Platais 01 Aug 2016
+H. Khandrika, S. Baggett, A. Bowers 23 May 2016
+C. Martlin, H. Gunning 08 Mar 2016
+M. Bourque, S. Baggett 22 Apr 2016
+S.E. Deustua 03 May 2016
+ J. Mack  06 Mar 2017 
+J. Mack, T. Dahlen, E. Sabbi, &amp; A. S. Bowers 08 Mar 2016
+S.E. Deustua, J. Mack, A.S. Bowers, S. Baggett, V. Bajaj, T. Dahlen, M. Durbin, C. Gosmeyer, H. Gunning, D. Hammer, G. Hartig, H. Khandrika J. MacKenty, R. Ryan, E. Sabbi, M. Sosey 08 Nov 2016
+V. Bajaj 22 Feb 2016
+R. E. Ryan Jr., S. Deustua, J. Anderson, S. M. Baggett, V. Bajaj, M. Bourque, A. S. Bowers, T. Dahlen, M. Durbin, C. Gosmeyer, H. Gunning, H. Khandrika, J. Mack, J. MacKenty, C. Martlin, V. Kozhurina-Platais, E. Sabbi, &amp; M. Sosey 21 Feb 2016
+J. Mack, A. Rajan, &amp; A. Bowers 30 Dec 2015
+G. Brammer, R. Ryan, N. Pirzkal 02 Nov 2015
+K. S. Long, S. M. Baggett, &amp; J. W. MacKenty 21 Sept 2015
+K. S. Long, S. M. Baggett, &amp; J. W. MacKenty 21 Sept 2015
+C. M. Gosmeyer, S. M. Baggett 9 Sept 2015
+H. Khandrika, S. M. Baggett 9 Sept 2015
+K. Sahu, C. M. Gosmeyer, S. M. Baggett 8 July 2015
+R. E. Ryan Jr. &amp; S. M. Baggett 2 July 2015
+R. C. Bohlin, S. E. Deustua, &amp; N. Pirzkal 30 June 2015
+J. Mack 25 June 2015
+J. Anderson, M. Bourque, K. Sahu, E. Sabbi, A. Viana 28 May 2015
+E. Sabbi &amp; the WFC3 Team 11 May 2015
+M. J. Durbin, P. R. McCullough 28 April 2015
+H. Gunning 22 April 2015
+R.J. Avila, A. Koekemoer, J. Mack, A. Fruchter 31 March 2015
+S. Baggett, C. Gosmeyer, K. Noeske 31 March 2015
+V. Kozhurina-Platais &amp; J. Anderson 11 March 2015
+M. J. Durbin, M. Bourque, S. Baggett 10 March 2015
+Jay Anderson 18 Dec 2014
+Jay Anderson and Sara Ogaz 17 Dec 2014
+Jay Anderson and Sylvia Baggett 18 Nov 2014
+
+<a href="csm_offsets.txt" style="font-weight: bold;">CSM offsets</a>
+</li>
+C. M. Gosmeyer, S. Baggett, S. Deustua, D.M. Hammer 10 Sep 2014
+Jay Anderson and Sylvia Baggett 14 Aug 2014
+H.Gunning, S. Baggett, J. MacKenty 08 Aug 2014
+B. Hilbert 18 Jul 2014
+Kailash Sahu, Susana Deustua and Elena Sabbi 11 Jul 2014
+Susana Deustua, Ralph Bohlin and John MacKenty 30 Jun 2014
+Knox S. Long, Sylvia M. Baggett, John W. MacKenty &amp; Peter M. McCullough 09 Jun 2014
+M. Bourque, S. Baggett, &amp; L. Dressel 29 May 2014
+V. Kozhurina-Platais 27 May 2014
+N. Pirzkal 13 May 2014
+J. Biretta 08 May 2014
+Kailash Sahu, Sylvia Baggett, J. MacKenty 08 May 2014
+H. Gunning, E. Sabbi, J. MacKenty, S. Baggett, and the WFC3 Team 08 May 2014
+E. Sabbi &amp; the WFC3 Team 05 May 2014
+M. J. Dulude, S. Baggett, B. Hilbert 01 May 2014
+H. Gunning, S. Baggett 14 Apr 2014
+J. Biretta and M. Bourque 10 Apr 2014
+G. Brammer, N. Pirzkal, P. McCullough, J. MacKenty 08 Apr 2014
+J. Anderson 04 Apr 2014
+J. C. Lee, N. Pirzkal, B. Hilbert 24 Jan 2014
+V. Kozhurina-Platais, D. Hammer, N. Dencheva, &amp; W. Hack 09 Jul 2013
+J. Biretta and S. Baggett 27 Jun 2013
+L. Dressel 26 Jun 2013
+E. Sabbi &amp; A. Bellini 25 Jun 2013
+J. Mack, E. Sabbi, &amp; T. Dahlen 25 Jun 2013
+M. Bourque &amp; S. Baggett 25 Jun 2013
+K. S. Long, S. M. Baggett &amp; J. W. MacKenty 09 Jul 2013
+E. Sabbi &amp; the WFC3 Team 12 Apr 2013
+K. S. Long, S. M. Baggett &amp; J. W. MacKenty 23 Jul 2013
+T. Dahlen 20 Mar 2013
+M. Bourque &amp; V. Kozhurina-Platais 15 Feb 2013
+H. Gunning, C. Pavlovsky, S. Baggett 29 Jan 2013
+Tomas Dahlen 04 Jan 2013
+N. Pirzkal, B. Hilbert 13 Nov 2012
+L. Dressel 13 Jul 2012
+J. Biretta 09 Jul 2012
+S. Baggett &amp; J. Anderson 28 Jun 2012
+S. Baggett &amp; J. Anderson 28 Jun 2012
+Hilbert and Petro 11 Jun 2012
+Hilbert 11 Jun 2012
+Noeske et al. 08 Jun 2012
+P. McCullough &amp; J. MacKenty 02 May 2012
+V. Kozhurina-Platais, M. Dulude, T. Dahlen, C. Cox 30 Apr 2012
+J. C. Lee, N. Pirzkal &amp; B. Hilbert 10 Apr 2012
+B. Hilbert 16 Mar 2012
+E. Sabbi &amp; the WFC3 Team 15 Mar 2012
+V. Kozhurina-Platais and L. Petro 13 Mar 2012
+A. Suchkov and S. Baggett 28 Feb 2012
+A. Suchkov and S. Baggett 28 Feb 2012
+E. Sabbi 05 Jan 2012
+Pavlovsky, McCullough &amp; Baggett 01 Dec 2011
+Rothberg et al. 02 Nov 2011
+Kozhurina-Platais et al. 27 Sep 2011
+P. McCullough 22 Aug 2011
+A. G. Riess 15 Aug 2011
+S. Deustua 30 Jun 2011
+T. Borders, C. Pavlovsky, S. Baggett 23 Jun 2011
+P. McCullough 23 May 2011
+N. Pirzkal, J. Mack, T. Dahlen, E. Sabbi 03 May 2011
+B. Hilbert and P. McCullough 21 Apr 2011
+K. S. Long, T. Wheeler, H. Bushouse 23 May 2011
+J. S. Kalirai, S. Deustua, A. Rajan, and A. Riess 25 Feb 2011
+Rajan et al. 10 Feb 2011
+V. Kozhurina-Platais, R. Gilliland, &amp; S. Baggett 03 Feb 2011
+H. Kuntschner et al. 19 Jan 2011
+M. J. Dulude, S. Baggett, H. Bushouse, &amp; B. Hilbert 04 Feb 2011
+R. Gilliland and A. Rajan 01 Jan 2011
+H. Bushouse et al. 07 Jan 2011
+M. Kuemmel et al. 07 Jan 2011
+Long et al. 17 Nov 2010
+Hilbert 28 Oct 2010
+Riess and Petro 22 Oct 2010
+J. Kalirai et al. 20 Oct 2010
+Hilbert &amp; Bushouse 26 Aug 2010
+Sabbi, MacKenty &amp; Borders 24 Aug 2010
+Borders et al. 13 Jul 2010
+Gilliland, Rajan and Deustua 18 Oct 2010
+Dahlen, Dressel, and Kalirai 24 Jun 2010
+J. Kalirai et al. 27 Apr 2010
+A. Riess 10 Mar 2010
+N. Pirzkal, A. Viana, A. Rajan 26 Apr 2010
+M. Wong 18 May 2010
+A. Rajan and S. Baggett 28 May 2010
+A.C Viana and S. Baggett 25 Jan 2010
+P. McCullough 14 Jan 2010
+McLean et al. 29 Jul 2010
+Hilbert &amp; McCullough 24 Jun 2010
+P. McCullough, S. Deustua 22 Jun 2010
+Hilbert 15 Jun 2010
+Hartig et al. 18 Feb 2010
+G. Hartig et al. 18 Feb 2010
+Deustua et al. 18 Feb 2010
+S.Baggett and T.Borders 26 Jan 2010
+A.R. Martel, T. Borders, &amp; E.A. Barker 23 Mar 2010
+Barker, McCullough, and Martel 22 Mar 2010
+B. HIlbert 17 Mar 2010
+B. Hilbert, V. Kozhurina-Platais, and E. Sabbi 17 Mar 2010
+P. McCullough 03 Dec 2009
+B. Hilbert 03 Dec 2009
+G. F. Hartig 03 Dec 2009
+G. F. Hartig 03 Dec 2009
+T. M. Brown 19 Nov 2009
+Kuntschner et al. 19 Nov 2009
+Kuntschner et al. 19 Nov 2009
+Borders &amp; Baggett 19 Nov 2009
+L. Dressel, C. Cox, M. Lallo 17 Nov 2009
+L. Dressel, C. Cox, M. Lallo 17 Nov 2009
+V. Kozhurina-Platais, et al. 17 Nov 2009
+V. Kozhurina-Platais, et al. 17 Nov 2009
+J.S. Kalirai, et al. 17 Nov 2009
+J.S. Kalirai, et al. 17 Nov 2009
+S. Baggett, T. Borders 17 Nov 2009
+S. Baggett 17 Nov 2009
+S. Baggett, E. Sabbi, P. McCullough 17 Nov 2009
+T. Borders, S. Baggett 17 Nov 2009
+B.Hilbert, P.R. McCullough 17 Nov 2009
+H. Bushouse 17 Nov 2009
+E. Sabbi 17 Nov 2009
+E.Sabbi 17 Nov 2009
+L. Petro 17 Nov 2009
+Sabbi et al. 08 Sep 2009
+Sabbi et al. 06 Aug 2009
+H. Bushouse and C. Pavlovsky 29 Jul 2009
+M. Dulude and L. Dressel 30 Jun 2009
+V. Kozhurina-Platais, B. Hilbert, A. Martel, and P. McCullough 22 Jun 2009
+J. S. Kalirai et al. 12 Jun 2009
+M. H. Wong et al. 29 May 2009
+T.Borders, S. Baggett, A.R. Martel, H. Bushouse 22 May 2009
+A. R. Martel, P. McCullough, and H. Bushouse 12 May 2009
+S. Baggett 03 May 2009
+H. Bushouse 26 Mar 2009
+H. Kuntschner, H. Bushouse, M. Kummel, and J. R. Walsh 22 Jan 2009
+E. Sabbi et al. 12 Jun 2009
+B. Hilbert 02 Jun 2009
+H. Bushouse 20 Feb 2009
+A. R. Martel, S. Baggett, H. Bushouse, and E. Sabbi 02 Feb 2009
+H. Bushouse 23 Dec 2008
+B. Hilbert 16 Dec 2008
+B. Hilbert 16 Dec 2008
+T. Brown 11 Dec 2008
+T. Brown 10 Dec 2008
+H. Bushouse 25 Nov 2008
+S. Baggett 20 Oct 2008
+S. Baggett 17 Oct 2008
+G. Hartig 25 Sep 2008
+B. Hilbert 25 Sep 2008
+H. Bushouse and J. Kalirai 23 Sep 2008
+G. Hartig 16 Sep 2008
+G. Hartig 26 Aug 2008
+G. Hartig 21 Aug 2008
+G. Hartig 21 Aug 2008
+P. McCullough 19 Aug 2008
+B. Hilbert 19 Aug 2008
+A. Martel 19 Aug 2008
+A. Martel 19 Aug 2008
+M. Robberto 16 Jul 2008
+P. McCullough 16 Jul 2008
+E. Sabbi 15 Jul 2008
+H. Kuntschner, H. Bushouse, J. R. Walsh, M. Kummel 14 Jul 2008
+H. Kuntschner, H. Bushouse, J. R. Walsh, M. Kummel 13 Jul 2008
+R. Hook and F. Stoehr 21 Jun 2008
+S. Baggett 20 Jun 2008
+E. Sabbi 09 Jun 2008
+T. Brown 29 May 2008
+T. Brown, G. Hartig, S. Baggett 27 May 2008
+T. Brown 05 May 2008
+T. Brown 30 Apr 2008
+T. Brown 14 Apr 2008
+T. Brown 09 Apr 2008
+T. Brown 31 Mar 2008
+B. Hilbert 22 Feb 2008
+B. Hilbert 29 Jan 2008
+A. Martel 25 Jan 2008
+S. Baggett 11 Jan 2008
+L. Petro 21 Dec 2007
+B. Hilbert 05 Dec 2007
+A. R. Martel, S. Baggett 29 Nov 2007
+A. R. Martel 02 Nov 2007
+B. Hilbert 01 Nov 2007
+T. Brown 26 Oct 2007
+T. Brown 23 Oct 2007
+S. Baggett, A. Waczynski 19 Oct 2007
+T. Brown 17 Oct 2007
+T. Brown 11 Oct 2007
+S. Baggett 14 Sep 2007
+T. Brown 28 Aug 2007
+B. Hilbert 16 Aug 2007
+T. Brown 15 Aug 2007
+S. Baggett 16 May 2007
+S. Baggett 07 May 2007
+M. Robberto 30 Apr 2007
+M. Robberto 30 Apr 2007
+S. Baggett 27 Apr 2007
+B. Hilbert 26 Apr 2007
+T. Brown 25 Apr 2007
+T. Brown 24 Apr 2007
+T. Brown 19 Apr 2007
+T. Brown 13 Apr 2007
+H. Bushouse 01 Apr 2007
+S. Baggett, T. Brown, G. Hartig, M. Robberto, R. Boucarut, R. Telfer 19 Mar 2007
+S. Baggett, R. Boucarut, R. Telfer, J. Kim Quijano, M. Quijada 08 Mar 2007
+S. Baggett, R. Boucarut, R. Telfer, J. Kim Quijano, M. Quijada 15 Feb 2007
+S. Baggett, R. Boucarut, R. Telfer, J. Kim Quijano, M. Quijada 17 Jan 2007
+L. Petro and T. Wheeler 02 Oct 2006
+M. Sosey and H. Bushouse 26 Sep 2006
+T. Brown and S. Baggett 25 Sep 2006
+T. Brown 21 Sep 2006
+B. Hilbert and M. Robberto 20 Jun 2006
+B. Hilbert 18 May 2006
+B. Hilbert and M. Robberto 15 Dec 2005
+M. Robberto and B. Hilbert 07 Dec 2005
+T. Brown 15 Nov 2005
+M. Robberto and B. Hilbert 22 Sep 2005
+H. Bushouse 23 Aug 2005
+B. Hilbert and M. Robberto 22 Aug 2005
+H. Bushouse, O. Lupie 17 Aug 2005
+D. Figer, S. Baggett 16 Aug 2005
+T. Brown 08 Jun 2005
+H. Bushouse 01 Jun 2005
+H. Bushouse, O. Lupie 24 May 2005
+M. Robberto 11 May 2005
+T. Brown 10 May 2005
+S. Larsen, H. Bushouse, J. R. Walsh 04 May 2005
+H. Bond, T. Brown 15 Apr 2005
+B. Hilbert 12 Apr 2005
+B. Hilbert 11 Apr 2005
+B. Hilbert, S. Baggett 28 Mar 2005
+T. Brown, I. N. Reid, D. F. Figer 15 Mar 2005
+T. Brown 04 Mar 2005
+G. Harting 03 Mar 2005
+S. Baggett 02 Mar 2005
+S. Baggett 24 Feb 2005
+S. Larsen, H. Bushouse, J. R. Walsh 23 Feb 2005
+H. Bushouse, G. Hartig 10 Feb 2005
+S. Baggett, R. Hill, G. Hartig, A. Waczynski, Y. Wen 09 Feb 2005
+G. Hartig 05 Feb 2005
+G. Hartig 04 Feb 2005
+T. Brown, I. N. Reid 03 Feb 2005
+T. Brown 02 Feb 2005
+B. Hilbert 20 Dec 2004
+B. Hilbert, S. Baggett 10 Aug 2004
+T. Brown, O. Lupie 26 Jul 2004
+S. Baggett, G. Hartig, E. Cheung 12 Jul 2004
+B. Hilbert 10 Jun 2004
+G. Hartig 09 Jun 2004
+G. Hartig 24 May 2004
+S. Baggett 21 May 2004
+B. Hilbert 17 May 2004
+N. Reid 17 May 2004
+T. Brown 17 May 2004
+N. Reid 27 Feb 2004
+N. Reid 24 Feb 2004
+S. Baggett, B. Hilbert 23 Feb 2004
