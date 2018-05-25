@@ -1,1 +1,4 @@
-﻿Year	pool M	long-list M	short-list M	hire M	pool F	long-list F	short-list F	hire F2012	74	N/A	7	4	22	N/A	3	22014	95	10	8	3	46	6	4	22016	94	20	6	1	36	6	5	1
+Year,pool M,long-list M,short-list M,hire M,pool F,long-list F,short-list F,hire F
+2012,74,0,7,4,22,0,3,2
+2014,95,10,8,3,46,6,4,2
+2016,94,20,6,1,36,6,5,1
