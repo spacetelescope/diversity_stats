@@ -88,9 +88,12 @@ class science_evaluation_data():
         # Levels range from 1 to 4
         if str(level) not in ['1', '2', '3', '4']:
             return ValueError("Invalid state {}; must be between 1 and 4".format(level))
+        m_data = self.data['Level {} Male'.format(level)]
+        f_data = self.data['Level {} Female'.format(level)]
         self.data = {'years': self.years,
-                     'Male': self.data['Level {} Male'.format(level)],
-                     'Female': self.data['Level {} Female'.format(level)],
+                     'Male': m_data,
+                     'Female': f_data,
+                     'Ratio': f_data / (m_data + f_data),
                      'Non-Binary': [0]*5}
 
     def create_columns(self):
@@ -159,6 +162,54 @@ class renewal_promotion_data():
                      'Male': self.data['{} Male'.format(data_type)],
                      'Female': self.data['{} Female'.format(data_type)],
                      'Non-Binary': [0]*5}
+
+    def create_columns(self):
+        '''Create ColumnDataSource for nested Bokeh bar plot
+        '''
+        # Create an hstack of the data
+        counts = sum(zip(self.data['Male'],
+                         self.data['Female'],
+                         self.data['Non-Binary']),
+                     ())
+        source = ColumnDataSource(data=dict(x=self.x, counts=counts))
+        return source
+
+
+class symposium_data():
+    '''Load and format data about symposia
+    '''
+    def __init__(self):
+        # Load data from TXT file
+        file = os.path.join(DATA_DIR, 'symposia.csv')
+        self.data = asc.read(file)
+
+        # Define axes
+        self.symposia = ['1997 – The Hubble Deep Field',
+                         '1998 _ Unsolved Problems in Stellar Evolution',
+                         '2005 _ A Decade of Extrasolar Planets around Normal Stars',
+                         '2006 _ Massive Stars: From Pop III and GRBs to the Milky Way',
+                         '2007 _ Hubble Fellowship Symposium',
+                         '2007 _ Black Holes',
+                         '2008 _ Hubble Fellowship Symposium',
+                         '2008 _ A decade of dark energy',
+                         '2009 _ Hubble Fellowship Symposium',
+                         '2009 _ The Search for Life in the Universe',
+                         '2010 _ Hubble Fellowship Symposium',
+                         '2010 _ Stellar Populations in the Cosmological Context']
+        self.genders = ['Male', 'Female', 'Non-Binary']
+
+        # Create tuples for every combination of symposium and gender
+        self.x = [(sym, gender) for sym in self.symposia for gender in self.genders]
+
+    def get_data(self, data_type):
+        # Possible types include 'participants', 'invited', 'contributed'
+        if data_type not in ['participants', 'invited', 'contributed']:
+            return ValueError("Invalid type {}; must be either 'participants', 'invited', or 'contributed'".format(data_type))
+        self.data = {'symposia': self.symposia,
+                     'Male': self.data['{}'.format(data_type)] - self.data['w_{}'.format(data_type)],
+                     'Female': self.data['w_{}'.format(data_type)],
+                     'Non-Binary': [0]*len(self.symposia)}
+        print(self.data)
 
     def create_columns(self):
         '''Create ColumnDataSource for nested Bokeh bar plot
