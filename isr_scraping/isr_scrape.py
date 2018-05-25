@@ -2,7 +2,7 @@
 
 from bs4 import BeautifulSoup
 import numpy as np
-from urllib.requests import urlopen
+from urllib.request import urlopen
 
 
 ## -- FUNCTIONS
@@ -20,13 +20,13 @@ def isr_author_list(url, isr_str, outfile):
         What to name the file written out.
     """
 
-    html = ulropen(url).read()
+    html = urlopen(url).read()
     lines = BeautifulSoup(html, 'lxml').findAll('li')
-    lines = [str(line) for lin in lines]
+    lines = [str(line) for line in lines]
     isr_bool = [isr_str in line for line in lines]
     isrs = np.array(lines)[isr_bool]
 
-    authors = [elem.split('<br/>')[-1].split('<span class="small_font")')[0] for elem in isrs]
+    authors = [elem.split('<br/>')[-1].split('<span class="small_font"')[0] for elem in isrs]
 
     author_str_out = '\n'.join(authors)
     
