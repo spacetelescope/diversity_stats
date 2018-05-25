@@ -105,6 +105,7 @@ class science_evaluation_data():
             f_data_ratio = f_data / (m_data + f_data)
             m_data = m_data_ratio
             f_data = f_data_ratio
+            print(m_data, f_data) 
 
         self.data = {'years': self.years,
                      'Male': m_data,

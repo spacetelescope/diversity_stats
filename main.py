@@ -42,10 +42,10 @@ c = column(children=[hiring_category, hiring_plot])
 hiring_panel = Panel(child=c, title='Hiring', width=300)
 
 def update_data(attrname, old, new): 
-   print('you want category', new, ' but we do not have that yet!') 
    _, src_cds_new = g.get_hiring_plot(new) 
    src_cds.data = src_cds_new.data 
-   #print('you want category', new, ' but we do not have that yet!') 
+
+
    
 for w in [hiring_category]:  w.on_change('value', update_data)
 
@@ -59,8 +59,3 @@ meetings = Panel(child=meeting_plot, title='Meeting Speakers', width=300)
 tabs = Tabs(tabs=[ colloq_panel, hiring_panel, sec_evals, spc_evals, isr_authors, staff, meetings], width=500) 
 
 curdoc().add_root(tabs)
-
-
-
-
-

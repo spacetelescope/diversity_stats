@@ -21,4 +21,5 @@ def get_hiring_plot(stage):
     p.x_range.range_padding = 0.1
     p.xaxis.major_label_orientation = 1
     p.xgrid.grid_line_color = 'white'
+    p.y_range = Range1d(0, 1, bounds=(0,1)) 
     return p, src_cds 
