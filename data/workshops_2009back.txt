@@ -1,0 +1,10 @@
+#Workshops
+#year	title								participants	w	invited		w 	total_speakers		w
+2010	Nix and Hydra							32		9	NA		NA	9			1
+2009	PEARLS - 09: Spiral Arm Substructure in Nearby Galaxies		28		9	NA		NA	12			4
+2008	Beyond JWST: The Next Steps in UV-Optical-NIR Space Astronomy	171		33	NA		NA	19			3
+2008	Science with the New Hubble Space Telescope (not STScI)		NA		NA	NA		NA	NA			NA
+2007	Astrophysics 2020: Large Space Missions Beyond the Next Decade	80		8	15		2	27			3
+2006	Astrophysics Enabled By the Return to the Moon			NA		NA	27		6	NA			NA
+2006	The 5th International Workshop on Plan. and Sched. for Space	61		7	3		1	22			3
+
