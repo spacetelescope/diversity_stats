@@ -28,15 +28,28 @@ def get_generic_plot():
     return p 
 
 colloq_plot = get_generic_plot() 
-hiring_plot = g.get_hiring_plot() 
+hiring_plot, src_cds = g.get_hiring_plot('pool') 
 sec_plot = s.get_sec_plot() 
 spc_plot = get_generic_plot() 
 isr_plot = get_generic_plot() 
 staff_plot = get_generic_plot() 
 meeting_plot = get_generic_plot() 
 
+# HIRING PANEL 
+hiring_category = Select(title="Hiring Stage", value="Pool", width=100, \
+                options=["pool",  "long-list", "short-list", "hire"]) 
+c = column(children=[hiring_category, hiring_plot])  
+hiring_panel = Panel(child=c, title='Hiring', width=300)
+
+def update_data(attrname, old, new): 
+   print('you want category', new, ' but we do not have that yet!') 
+   _, src_cds_new = g.get_hiring_plot(new) 
+   src_cds.data = src_cds_new.data 
+   #print('you want category', new, ' but we do not have that yet!') 
+   
+for w in [hiring_category]:  w.on_change('value', update_data)
+
 colloq_panel = Panel(child=colloq_plot, title='Colloquium', width=300)
-hiring_panel = Panel(child=hiring_plot, title='Hiring', width=300)
 sec_evals = Panel(child=sec_plot, title='SEC Evals', width=300)
 spc_evals = Panel(child=spc_plot, title='SPC Reviews', width=300)
 isr_authors = Panel(child=isr_plot, title='ISR Authors', width=300)
