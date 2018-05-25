@@ -1,4 +1,4 @@
-YEAR ,ISR ,# authors,# male,# female,First Author
+YEAR ,ISR ,N_AUTHOR,N_M,N_F,FA
 24-May-18,2018-03,2,2,0,M
 20-Apr-18,2018-02,1,1,0,M
 17-Jan-18,2018-01,3,2,1,F
