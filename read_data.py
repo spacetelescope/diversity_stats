@@ -30,8 +30,7 @@ import numpy as np
 from astropy.io import ascii as asc
 from bokeh.models import ColumnDataSource
 
-# DATA_DIR = os.path.abspath('diversity_stats/data')
-DATA_DIR = os.path.abspath('data')
+DATA_DIR = os.path.abspath('diversity_stats/data')
 
 
 class SRC_data():
