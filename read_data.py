@@ -57,3 +57,34 @@ class SRC_data():
                      ())
         source = ColumnDataSource(data=dict(x=self.x, counts=counts))
         return source
+
+
+class science_evaluation_data():
+    '''Load and format data about science evaluations
+    '''
+    def __init__(self):
+        # Load data from CSV file
+        self.data = asc.read('data/Science_Evals_SEC.csv')
+
+        # Define axes
+        self.years = ['2013', '2014', '2015', '2016', '2017']
+        self.genders = ['Male', 'Female', 'Non-Binary']
+
+        # Create tuples for every combination of year and gender
+        self.x = [(year, gender) for year in self.years for gender in self.genders]
+
+    def get_data(self, level):
+        # Levels range from 1 to 4
+        self.data = {'years': self.years,
+                     'Male': self.data['Level {} Male'.format(level)],
+                     'Female': self.data['Level {} Female'.format(level)],
+                     'Non-Binary': [np.nan]*5}
+
+    def create_columns(self):
+        # Create an hstack of the data
+        counts = sum(zip(self.data['Male'],
+                         self.data['Female'],
+                         self.data['Non-Binary']),
+                     ())
+        source = ColumnDataSource(data=dict(x=self.x, counts=counts))
+        return source
