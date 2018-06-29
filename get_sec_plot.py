@@ -5,9 +5,9 @@ import read_data
 
 palette = ["#c9d9d3", "#718dbf", "#e84d60", "green", "red","orange"]
 
-def get_sec_plot():
+def get_sec_plot(level):
     SEC = read_data.science_evaluation_data() 
-    SEC.get_data('3')
+    SEC.get_data(level, ratio=True)
     sec_cds = SEC.create_columns()
     
     p = figure(x_range=FactorRange(*sec_cds.data['x']), plot_height=350, plot_width=500, title="               ",
@@ -18,5 +18,5 @@ def get_sec_plot():
     p.x_range.range_padding = 0.1
     p.xaxis.major_label_orientation = 1
     p.xgrid.grid_line_color = 'white'
-    return p 
+    return p, sec_cds
 

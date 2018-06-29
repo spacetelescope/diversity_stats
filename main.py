@@ -29,7 +29,7 @@ def get_generic_plot():
 
 colloq_plot = get_generic_plot() 
 hiring_plot, src_cds = g.get_hiring_plot('pool') 
-sec_plot = s.get_sec_plot() 
+sec_plot, sec_cds = s.get_sec_plot('1')
 spc_plot = get_generic_plot() 
 isr_plot = get_generic_plot() 
 staff_plot = get_generic_plot() 
@@ -41,21 +41,30 @@ hiring_category = Select(title="Hiring Stage", value="Pool", width=100, \
 c = column(children=[hiring_category, hiring_plot])  
 hiring_panel = Panel(child=c, title='Hiring', width=300)
 
-def update_data(attrname, old, new): 
+def update_hire_data(attrname, old, new):
    _, src_cds_new = g.get_hiring_plot(new) 
-   src_cds.data = src_cds_new.data 
+   src_cds.data = src_cds_new.data
 
+for w in [hiring_category]:  w.on_change('value', update_hire_data)
 
-   
-for w in [hiring_category]:  w.on_change('value', update_data)
+#SEC LEVEL
+science_level = Select(title="SE Level", value="1", width=100, \
+                         options=["1",  "2", "3", "4"])
+c_sec = column(children=[science_level, sec_plot])
+sec_panel = Panel(child=c_sec, title='SEC Evals', width=300)
+
+def update_sec_data(attrname, old, new):
+    _, sec_cds_new = s.get_sec_plot(new)
+    sec_cds.data = sec_cds_new.data
+
+for w_sec in [science_level]:  w_sec.on_change('value', update_sec_data)
 
 colloq_panel = Panel(child=colloq_plot, title='Colloquium', width=300)
-sec_evals = Panel(child=sec_plot, title='SEC Evals', width=300)
 spc_evals = Panel(child=spc_plot, title='SPC Reviews', width=300)
 isr_authors = Panel(child=isr_plot, title='ISR Authors', width=300)
 staff = Panel(child=staff_plot, title='Staff Comp', width=300)
 meetings = Panel(child=meeting_plot, title='Meeting Speakers', width=300)
 
-tabs = Tabs(tabs=[ colloq_panel, hiring_panel, sec_evals, spc_evals, isr_authors, staff, meetings], width=500) 
+tabs = Tabs(tabs=[ colloq_panel, hiring_panel, sec_panel, spc_evals, isr_authors, staff, meetings], width=500)
 
 curdoc().add_root(tabs)

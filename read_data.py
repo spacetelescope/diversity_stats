@@ -98,14 +98,12 @@ class science_evaluation_data():
         if str(level) not in ['1', '2', '3', '4']:
             return ValueError("Invalid state {}; must be between 1 and 4".format(level))
 
-        m_data = self.data['Level {} Male'.format(level)]
-        f_data = self.data['Level {} Female'.format(level)]
         if ratio:
-            m_data_ratio = m_data / (m_data + f_data)
-            f_data_ratio = f_data / (m_data + f_data)
-            m_data = m_data_ratio
-            f_data = f_data_ratio
-            print(m_data, f_data) 
+            m_data = self.data['Ratio {} M'.format(level)]
+            f_data = self.data['Ratio {} F'.format(level)]
+        else:
+            m_data = self.data['Level {} Male'.format(level)]
+            f_data = self.data['Level {} Female'.format(level)]
 
         self.data = {'years': self.years,
                      'Male': m_data,
